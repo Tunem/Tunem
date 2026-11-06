@@ -1,5 +1,6 @@
 Hi, I’m @Tunem and I graduated from Karelia University of Applied of Sciences
 - I’m interested in video games and how to create them
+- I have developed web-based projects
 - In my studies I focused on game and software development
 
 
